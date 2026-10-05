@@ -10,7 +10,7 @@
   },
   "packages": {
     "url": "https://raw.githubusercontent.com/carabidulebabat/KiCad-Library/main/pcm/packages.json",
-    "sha256": "a1235f2518c01c2fe18e5dfae05287bb38ae68667ecf7dc11a50c27aee18d917",
+    "sha256": "4a89c1021455b20ac33b678118f225db77a46a3e6781fbf80aa9bbb48dd180d6 *",
     "update_timestamp": 1786800218,
     "update_time_utc": "2026-08-15 13:23:38"
   }
