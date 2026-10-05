@@ -13,7 +13,7 @@
           "web": "https://opendrone.be"
         }
       },
-      "license": "CERN-OHL-S-2.0",
+      "license": "CERN-OHL",
       "resources": {
         "homepage": "https://github.com/OpenDrone-hw/KiCad-Library"
       },
