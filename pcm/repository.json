@@ -1,5 +1,6 @@
 {
   "$schema": "https://go.kicad.org/pcm/schemas/v1#/definitions/Repository",
+  "schema_version": 1,
   "name": "OpenDrone",
   "maintainer": {
     "name": "incutec",
