@@ -24,7 +24,7 @@
       "status": "stable",
       "kicad_version": "10.0",
       "download_url": "https://github.com/OpenDrone-hw/KiCad-Library/releases/download/pcm-v1.1.0/OpenDrone-KiCad-Library_1.1.0.zip",
-      "download_sha256": "BB85119A3365A3C19D234E0003EA4DE9087A60FBD80A49D759E1528599DB16EB",
+      "download_sha256": "bb85119a3365a3c19d234e0003e4de9087af60bfd80a49d759e1528599db16eb",
       "download_size": 38829120,
       "install_size": 214373196
     }
