@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "$schema": "https://go.kicad.org/pcm/schemas/v1",
+      "$schema": "https://go.kicad.org/pcm/schemas/v2",
       "name": "OpenDrone KiCad Library",
       "description": "Symbols, footprints and 3D models for every part manufactured on an OpenDrone board.",
       "description_full": "The parts catalogue of the OpenDrone open source FPV hardware line by incutec: every symbol, footprint and 3D model here is used on a board that has been through a real JLCPCB assembly run. Symbols carry LCSC part numbers for JLCPCB ordering. Hardware line: https://github.com/OpenDrone-hw",
